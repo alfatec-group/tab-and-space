@@ -146,7 +146,7 @@ In Python, types need to be converted explicitly to perform operations with diff
     user_name = 'John'
     age = 40
     print(user_name + str(age)) # John40
-    print(type str(age)) # <class 'str'>
+    print(type (str(age)=) # <class 'str'>
 ```
 Similarly, strings can be converted into numbers
 
